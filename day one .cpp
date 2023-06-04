@@ -1,4 +1,4 @@
-//Set Matrix Zeros
+//Set Matrix Zeros    DAY 1
 #include <bits/stdc++.h>
 
 void  setZeros(vector<vector<int>> & matrix )
